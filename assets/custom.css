@@ -1,0 +1,39 @@
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	padding: 1rem;
+	text-align: center;
+	margin: 0px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-color: #d3e0e9;
+}
+footer span {
+	font-weight: 400;
+}
+
+#pilihanbank {
+  display: none;
+}
+
+#pilihanbank.show {
+  display: block;
+}
+
+
+#accordion .fa { margin-right:10px; !important}
+.panel>.list-group:last-child .list-group-item:last-child, .panel>.panel-collapse>.list-group:last-child .list-group-item:last-child {
+  border-width: 1px 0 !important;
+  border-radius: 0;
+}
