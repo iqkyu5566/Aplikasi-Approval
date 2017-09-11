@@ -15,8 +15,9 @@ class DBMaker extends CI_Model {
 		return $this->db->query($query);
 	}
 
-	function FetchAkun()
+	function FetchAkun($perusahaan)
 	{
+		$this->db->where('perusahaan', $perusahaan);
 		return $this->db->get('akun');
 	}
 

@@ -24,7 +24,7 @@ class Maker extends CI_Controller
         
         if ($this->form_validation->run() == FALSE)
         {
-            $dataselect = $this->DBMaker->FetchAkun();
+            $dataselect = $this->DBMaker->FetchAkun($this->perusahaan);
             // menampilkan di select
             $data       = array(
                 'select' => $dataselect

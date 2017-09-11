@@ -17,7 +17,7 @@
 	<script src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js" type="text/javascript"></script>
 	<script src="<?php echo base_url('assets/sweetalert/sweetalert.min.js'); ?>" type="text/javascript"></script>
 	<script src="<?php echo base_url('assets/table/table.js'); ?>" type="text/javascript"></script>
-	<script type="text/javascript" src="<?php echo base_url('assets/custom.js'); ?>"></script>
+	<!-- <script type="text/javascript" src="<?php echo base_url('assets/custom.js'); ?>"></script> -->
 </head>
 
 <body>
