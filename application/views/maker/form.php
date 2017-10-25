@@ -1,4 +1,4 @@
-<div class="col-xs-10 col-sm-offset-1">
+<div class="col-xs-12 col-md-10 col-md-offset-1">
 <div class="panel panel-default">
 <div class="panel-heading">
 <strong>Input Pengeluaran</strong>
