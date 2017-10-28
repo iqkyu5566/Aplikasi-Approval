@@ -4,11 +4,11 @@
 Senbi adalah solusi untuk salah satu perusahaan yang sebelumnya sulit untuk mengelola / mengkontrol keuangan dalam lingkup perusahaan, dengan adanya Senbi, salah satu perusahaan yang ada di Jakarta dapat mengelola keuangan dengan lebih terperinci dan transaparan baik kepada atasan dan divisi lainnya.
 
 ### Hak User
-| Level |  Membuat Anggaran |  Cek Anggaran  | Approve Anggaran | Membuat Rencana Kerja dan Anggaran
-| ------------ | ------------ |
-|  **Maker**  | Mengajukan Anggaran  |  Tidak | Tidak | Ya
-|   **Checker**  |  Tidak  | Menyetujui | Ya, diteruskan ke Approval | Tidak
-|  **Approval**  |  Ya  | Ya | Ya | Tidak
+| Level |  Membuat Anggaran |  Cek Anggaran  | Approve Anggaran | Membuat Rencana Kerja dan Anggaran |
+| ------ |:-------------:| -----:| -----:| -----:|
+|  **Maker**  | Mengajukan Anggaran  |  Tidak | Tidak | Ya |
+|   **Checker**  |  Tidak  | Menyetujui | Ya, diteruskan ke Approval | Tidak |
+|  **Approval**  |  Ya  | Ya | Ya | Tidak |
 
 ### Cara Penggunaan
 - Maker menginput Anggaran
