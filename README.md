@@ -6,7 +6,7 @@ Senbi adalah solusi untuk salah satu perusahaan yang sebelumnya sulit untuk meng
 ### Hak User
 | Level |  Membuat Anggaran |  Cek Anggaran  | Approve Anggaran | Membuat Rencana Kerja dan Anggaran |
 | ------ |:-----:| :-----: | :-----: | :-----: |
-|  **Maker**  | Mengajukan Anggaran  |  Tidak | Tidak | Ya |
+|  **Maker**  | Ya  |  Tidak | Tidak | Ya |
 |   **Checker**  |  Tidak  | Ya | Ya, diteruskan ke Approval | Tidak |
 |  **Approval**  |  Ya  | Ya | Ya | Tidak |
 
