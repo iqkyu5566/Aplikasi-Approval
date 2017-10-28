@@ -13,7 +13,7 @@ Di aplikasi ini masing masing memiliki hak masing-masing, contohnya
 #### Maker
 Maker bertanggung jawab untuk **menginput Rencana Kerja Anggaran, Anggaran** di setiap aktivitas budgeting keuangan kantor.
 #### Checker
-Checker bertanggung jawab untuk** menganalisa suatu anggaran** yang dibuat oleh maker, sekiranya anggaran realistis, checker dapat **meneruskan ke Approval** (Manager Tingkat Atas) untuk di Approve.
+Checker bertanggung jawab untuk **menganalisa suatu anggaran** yang dibuat oleh maker, sekiranya anggaran realistis, checker dapat **meneruskan ke Approval** (Manager Tingkat Atas) untuk di Approve.
 #### Approval
 Approval dapat **menyetujui setiap anggaran** yang sebelumnya telah di analisa oleh checker, approval juga dapat menolak anggaran sekiranya tidak realistis.
 
